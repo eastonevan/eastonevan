@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eastonevan
 - 👀 I’m interested in Software Development and Enginnering and solving problems in CS
-- 🌱 I’m currently learning the fundamentals of programming languages and database systems in school.
+- 🌱 I’m currently a Junior at the University of Colorado Boulder pursuing a Bachelor's of Science in Computer Science
 - 💞️ I’m looking to collaborate on a fun application project that I can learn a lot from!
 - 📫 How to reach me:
 email: denvereastons3@gmail.com
